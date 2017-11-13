@@ -1,5 +1,4 @@
-from sys import *        
-setExecutionLimit(500000)
+
 import random
 
 def game():
